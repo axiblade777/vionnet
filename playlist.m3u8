@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH" x-tvg-url="https://iptvx.one/EPG_NOARCH"
-#PLAYLIST:Vion IPTV 0.1Pro EPG
-#EXTINF:-1 tvg-id="Vion IPTV Pro -- 0.1 -- [23.11.26]" tvg-logo="https://files.catbox.moe/x2vn9x.png",Vion IPTV Pro -- 0.1 -- [23.11.26]
+#PLAYLIST:Vulkan IPTV 
+#EXTINF:-1 tvg-id="Vulkan IPTV 23.11.2026" tvg-logo="https://files.catbox.moe/x2vn9x.png",Vion IPTV Pro -- 0.1 -- [23.11.26]
 https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="1+1 Марафон" tvg-logo="https://i.imgur.com/smQKa2G.png" group-title="Ukraine",1+1 Марафон
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
